@@ -5,8 +5,8 @@
 
 ## Data
 - Source: Kaggle — Superstore Dataset (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-- Files go here:
-  - `data/raw/` — original CSV(s) from Kaggle (do not commit if license/size is a problem)
+- Files :
+  - `data/raw/` —".\data\raw\Sample - Superstore.csv"
   - `data/processed/` ".\data\processed\Sample - Superstore_Clean.csv"
   - `spreadsheets/` ".\data\processed\Sample - Superstore_Clean.csv"
 
